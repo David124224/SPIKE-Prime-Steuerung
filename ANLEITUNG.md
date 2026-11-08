@@ -18,7 +18,7 @@
    (der Hub kann nur mit einem Gerät gleichzeitig verbunden sein).
 
 ## 3. PC-Programm starten
-Doppelklick auf **`SPIKE Steuerung.exe`** (Python wird dafür nicht gebraucht).
+Doppelklick auf **`SPIKE.Steuerung.exe`** (Python wird dafür nicht gebraucht).
 Die Datei gibt es auf GitHub unter **Releases** zum Herunterladen.
 Tipp: Rechtsklick → „Weitere Optionen" → „Senden an" → „Desktop (Verknüpfung erstellen)".
 

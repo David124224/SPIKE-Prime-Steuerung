@@ -32,8 +32,8 @@ Die Ports (A–F) sind egal, das Programm erkennt alle Geräte selbst.
    Zahnrad → *Install Pybricks Firmware*. (Zurück zur LEGO-Firmware geht jederzeit mit der SPIKE-App.)
 2. **Hub-Programm hochladen:** Inhalt von [`hub_programm.py`](hub_programm.py) in code.pybricks.com
    einfügen, per Bluetooth verbinden, ▶ klicken. Danach die Verbindung in code.pybricks.com **trennen**.
-3. **PC-Programm:** `SPIKE Steuerung.exe` unter
-   [Releases](../../releases/latest) herunterladen und per Doppelklick starten.
+3. **PC-Programm:** `SPIKE.Steuerung.exe` unter
+   [Releases](../../releases/latest) herunterladen ([direkter Download](../../releases/latest/download/SPIKE.Steuerung.exe)) und per Doppelklick starten.
    Windows-Warnung „Der Computer wurde geschützt“ → *Weitere Informationen* → *Trotzdem ausführen*.
 4. Hub einschalten → **Verbinden** klicken → mit den Pfeiltasten fahren.
 
