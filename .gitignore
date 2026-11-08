@@ -1,0 +1,7 @@
+# Die .exe wird als GitHub-Release veröffentlicht, nicht im Repository
+*.exe
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
